@@ -6,7 +6,7 @@
 <p>
     <?php
     echo "Hello," . " " . "world" . "!";
-    echo "today no be small thing"
+    echo "today no be small thing" ;
 
 
     ?>
