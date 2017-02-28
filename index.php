@@ -6,16 +6,15 @@
 <p>
     <?php
 
-    print "<p>hello my world";
-    echo "<p>Hello," . " " . "world" . "!";
-
-    $myname = "Frodo Baggins";
-    $myage = 111;
-    echo "<p>My name is". " " . $myname . "<p>and I am " . $myage;
-
-    echo "<p>I get printed";
-print 5*7;
-
+    $age = "16";
+    if ($age > "16") {
+        print "Buy Specs";
+    } elseif ($age > "18")
+        print "Buy Mugs";
+    else {
+        if ($age > "21")
+            print "Buy Mugs";
+    }
     ?>
 </p>
 </body>
