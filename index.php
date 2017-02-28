@@ -6,7 +6,10 @@
 <p>
     <?php
     echo "Hello," . " " . "world" . "!";
-    echo "today no be small thing" ;
+
+    $myname = "Frodo Baggins";
+    $myage = 111;
+    echo "My name is" . $myname . "and I am " . $myage;
 
 
     ?>
