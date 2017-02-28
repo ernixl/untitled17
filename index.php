@@ -13,8 +13,8 @@
     $myage = 111;
     echo "<p>My name is" . $myname . "<p>and I am " . $myage;
 
-    echo "<p>i get printed";
-
+    echo "<p>I get printed";
+echo 5*7;
 
     ?>
 </p>
