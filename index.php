@@ -14,7 +14,7 @@
     echo "<p>My name is". " " . $myname . "<p>and I am " . $myage;
 
     echo "<p>I get printed";
-echo 5*7;
+print 5*7;
 
     ?>
 </p>
