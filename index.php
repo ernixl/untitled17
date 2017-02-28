@@ -5,6 +5,8 @@
 <body>
 <p>
     <?php
+
+    echo "hello my world";
     echo "Hello," . " " . "world" . "!";
 
     $myname = "Frodo Baggins";
