@@ -7,7 +7,7 @@
     <?php
 
     $age = "19";
-    if ($age > "16") {
+    if ($age > "16" and "< 18") {
         print "Buy Specs";
     } else if ($age > "18")
         print "Buy Mugs";
