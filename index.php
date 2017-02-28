@@ -6,8 +6,8 @@
 <p>
     <?php
 
-    echo "<p>hello my world</p>";
-    echo "Hello," . " " . "world" . "!";
+    print "<p>hello my world</p>";
+    print "Hello," . " " . "world" . "!";
 
     $myname = "Frodo Baggins";
     $myage = 111;
