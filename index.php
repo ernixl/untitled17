@@ -6,7 +6,7 @@
 <p>
     <?php
 
-    $name = "Edgar";
+    $name = "Simon";
     if ($name == "Simon") {
         print "I know you!";
     }
