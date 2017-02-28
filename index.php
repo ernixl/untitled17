@@ -6,7 +6,7 @@
 <p>
     <?php
 
-    print "<p>hello my world</p>";
+    print "<p>hello my world";
     echo "Hello," . " " . "world" . "!";
 
     $myname = "Frodo Baggins";
