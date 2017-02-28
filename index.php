@@ -13,6 +13,8 @@
     $myage = 111;
     echo "My name is" . $myname . "and I am " . $myage;
 
+    echo "i get printed"
+
 
     ?>
 </p>
