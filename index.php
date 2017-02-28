@@ -8,12 +8,12 @@
 
     $age = "19";
     if ($age > "16" and "< 18") {
-        print "Buy Specs";
+        echo "Buy Specs";
     } else if ($age > "18")
-        print "Buy Mugs";
+        echo "Buy Mugs";
     else {
         if ($age > "21")
-            print "Buy Mugs";
+            echo "Buy Mugs";
     }
     ?>
 </p>
