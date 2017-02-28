@@ -6,15 +6,14 @@
 <p>
     <?php
 
-    print "<p>hello my world</p>";
-    print "Hello," . " " . "world" . "!";
+    echo "<p>hello my world";
+    echo "Hello," . " " . "world" . "!";
 
     $myname = "Frodo Baggins";
     $myage = 111;
+    echo "My name is" . $myname . "and I am " . $myage;
 
-    echo "<p>My name is" . "$myname" . "<p>and I am " . $myage;
-
-   print "i get printed";
+    echo "i get printed";
 
 
     ?>
